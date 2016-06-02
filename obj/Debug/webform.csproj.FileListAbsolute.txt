@@ -2,3 +2,7 @@ c:\github\webform\webform\bin\webform.dll
 c:\github\webform\webform\bin\webform.pdb
 c:\github\webform\webform\obj\Debug\webform.dll
 c:\github\webform\webform\obj\Debug\webform.pdb
+C:\GitHub\webform\obj\Debug\webform.dll
+C:\GitHub\webform\bin\webform.dll
+C:\GitHub\webform\bin\webform.pdb
+C:\GitHub\webform\obj\Debug\webform.pdb
