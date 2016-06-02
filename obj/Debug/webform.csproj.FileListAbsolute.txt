@@ -1,0 +1,4 @@
+c:\github\webform\webform\bin\webform.dll
+c:\github\webform\webform\bin\webform.pdb
+c:\github\webform\webform\obj\Debug\webform.dll
+c:\github\webform\webform\obj\Debug\webform.pdb
